@@ -37,8 +37,12 @@ public class AssertionsTeste {
     }
 
     @Test
-    void validarNumerosDeTiposDiferentes(){
-        
+    void validarNumerosDiferentes(){
+
+        int numero1 = 52;
+        int numero2 = 54;
+
+        Assertions.assertNotEquals(numero1, numero2);
     }
 
 

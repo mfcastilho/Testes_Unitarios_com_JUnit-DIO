@@ -12,4 +12,10 @@ public class AssumptionsTeste {
         Assumptions.assumeTrue("Pedro".equals(System.getenv("USER")));
         Assertions.assertEquals(10, 5+5);
     }
+
+    @Test
+    void validarAlgoSomenteNoUsuarioAna(){
+        Assumptions.assumeFalse("Pedro".equals(System.getenv("USER")));
+        Assertions.assertEquals(10, 5+5);
+    }
 }

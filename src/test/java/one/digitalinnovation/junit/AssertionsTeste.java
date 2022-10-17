@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 import java.time.LocalDate;
 
 
-//EXEMPLOS PRÁTICOS DE ASSERÇÕES
+//EXEMPLOS PRÁ TICOS DE ASSERÇÕES
 
 public class AssertionsTeste {
 

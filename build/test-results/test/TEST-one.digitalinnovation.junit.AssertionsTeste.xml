@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="one.digitalinnovation.junit.AssertionsTeste" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-13T06:46:06" hostname="DESKTOP-CR63EUI" time="0.036">
-  <properties/>
-  <testcase name="validarLancamentos()" classname="one.digitalinnovation.junit.AssertionsTeste" time="0.036"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
